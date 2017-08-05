@@ -755,7 +755,7 @@ $cart = new Cart;
                                                         </a>
                                                     </figure>
                                                     <div class="item-price-container">
-                                                        <span class="item-price">$160<span class="sub-price">.99</span></span>
+                                                        <span class="item-price">৳<?php echo $row["price"]; ?><span class="sub-price"></span></span>
                                                     </div>
                                                     <span class="new-rect">New</span>
                                                     <span class="discount-rect">-10%</span>

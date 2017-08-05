@@ -99,7 +99,8 @@ $cart = new Cart;
                 <table>
                     <tr>
                         <td class="title">
-                            <img src="http://juvenilepacersbd.com/wp-content/uploads/2017/03/jp-logo.png" style="width:100%; max-width:300px;">
+                            <img src="http://juvenilepacersbd.com/wp-content/uploads/2017/03/jp-logo.png"
+                                 style="width:100%; max-width:300px;">
                         </td>
 
                         <td>

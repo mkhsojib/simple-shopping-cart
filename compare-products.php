@@ -327,14 +327,14 @@
                         <div class="header-top-left">
                             <ul id="top-links" class="clearfix">
                                 <li><a href="#" title="My Wishlist"><span class="top-icon top-icon-pencil"></span><span
-                                        class="hide-for-xs">My Wishlist</span></a></li>
+                                                class="hide-for-xs">My Wishlist</span></a></li>
                                 <li><a href="#" title="My Account"><span class="top-icon top-icon-user"></span><span
-                                        class="hide-for-xs">My Account</span></a></li>
+                                                class="hide-for-xs">My Account</span></a></li>
                                 <li><a href="cart.html" title="My Cart"><span
-                                        class="top-icon top-icon-cart"></span><span
-                                        class="hide-for-xs">My Cart</span></a></li>
+                                                class="top-icon top-icon-cart"></span><span
+                                                class="hide-for-xs">My Cart</span></a></li>
                                 <li><a href="checkout.html" title="Checkout"><span
-                                        class="top-icon top-icon-check"></span><span class="hide-for-xs">Checkout</span></a>
+                                                class="top-icon top-icon-check"></span><span class="hide-for-xs">Checkout</span></a>
                                 </li>
                             </ul>
                         </div><!-- End .header-top-left -->
@@ -343,7 +343,7 @@
                             <div class="header-text-container pull-right">
                                 <p class="header-text">Welcome to Venedor!</p>
                                 <p class="header-link"><a href="#">login</a>&nbsp;or&nbsp;<a href="#">create an
-                                    account</a></p>
+                                        account</a></p>
                             </div><!-- End .pull-right -->
                         </div><!-- End .header-top-right -->
                     </div><!-- End .col-md-12 -->
@@ -376,12 +376,12 @@
                                         <ul class="dropdown-cart-product-list">
                                             <li class="item clearfix">
                                                 <a href="#" title="Delete item" class="delete-item"><i
-                                                        class="fa fa-times"></i></a>
+                                                            class="fa fa-times"></i></a>
                                                 <a href="#" title="Edit item" class="edit-item"><i
-                                                        class="fa fa-pencil"></i></a>
+                                                            class="fa fa-pencil"></i></a>
                                                 <figure>
                                                     <a href="product.html"><img
-                                                            src="images/products/thumbnails/shoe1.jpg" alt="shoe 1"></a>
+                                                                src="images/products/thumbnails/shoe1.jpg" alt="shoe 1"></a>
                                                 </figure>
                                                 <div class="dropdown-cart-details">
                                                     <p class="item-name">
@@ -395,12 +395,12 @@
                                             </li>
                                             <li class="item clearfix">
                                                 <a href="#" title="Delete item" class="delete-item"><i
-                                                        class="fa fa-times"></i></a>
+                                                            class="fa fa-times"></i></a>
                                                 <a href="#" title="Edit item" class="edit-item"><i
-                                                        class="fa fa-pencil"></i></a>
+                                                            class="fa fa-pencil"></i></a>
                                                 <figure>
                                                     <a href="product.html"><img
-                                                            src="images/products/thumbnails/shoe3.jpg" alt="shoe 3"></a>
+                                                                src="images/products/thumbnails/shoe3.jpg" alt="shoe 3"></a>
                                                 </figure>
                                                 <div class="dropdown-cart-details">
                                                     <p class="item-name">
@@ -417,7 +417,7 @@
                                         <ul class="dropdown-cart-total">
                                             <li><span class="dropdown-cart-total-title">Shipping:</span>$7</li>
                                             <li><span class="dropdown-cart-total-title">Total:</span>$1005<span
-                                                    class="sub-price">.99</span></li>
+                                                        class="sub-price">.99</span></li>
                                         </ul><!-- .dropdown-cart-total -->
                                         <div class="dropdown-cart-action">
                                             <p><a href="cart.html" class="btn btn-custom-2 btn-block">Cart</a></p>
@@ -448,16 +448,16 @@
                                     <ul class="dropdown-menu pull-right" role="menu">
                                         <li><a href="#"><span class="flag-container"><img src="images/italy-flag.png"
                                                                                           alt="flag of england"></span><span
-                                                class="hide-for-xs">Italian</span></a></li>
+                                                        class="hide-for-xs">Italian</span></a></li>
                                         <li><a href="#"><span class="flag-container"><img src="images/spain-flag.png"
                                                                                           alt="flag of italy"></span><span
-                                                class="hide-for-xs">Spanish</span></a></li>
+                                                        class="hide-for-xs">Spanish</span></a></li>
                                         <li><a href="#"><span class="flag-container"><img src="images/france-flag.png"
                                                                                           alt="flag of france"></span><span
-                                                class="hide-for-xs">French</span></a></li>
+                                                        class="hide-for-xs">French</span></a></li>
                                         <li><a href="#"><span class="sm-separator"><img src="images/germany-flag.png"
                                                                                         alt="flag of germany"></span><span
-                                                class="hide-for-xs">German</span></a></li>
+                                                        class="hide-for-xs">German</span></a></li>
                                     </ul>
                                 </div><!-- End .btn-group -->
                             </div><!-- End .header-top-dropdowns -->
